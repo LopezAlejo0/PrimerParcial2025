@@ -127,7 +127,8 @@
         }
 
         /**
-         * 
+         * Retorna el monto recaudado por esta aerolinea
+         * @return float
          */
         public function montoPromedioRecaudado () {
             $promedio = 0;
